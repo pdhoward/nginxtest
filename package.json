@@ -1,0 +1,13 @@
+
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node on Docker",
+  "main": "server.js",
+  "start": "node server.js",
+  "author": "Patrick Howard",
+  "license": "MIT",
+  "dependencies": {
+	"express": "*"
+  }
+}
